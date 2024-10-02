@@ -1,0 +1,130 @@
+body{
+    margin:auto;
+    font-family: Tahoma;
+}
+div{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center; 
+}
+
+p{
+    margin: 10px auto;
+    width: 980px;
+    text-align: justify;
+    font-size: 18px;
+    line-height: 28px;
+}
+
+/*-------------1ª seção-------------*/
+.primeira-secao{
+    background-color: #afddfb;
+}
+
+.primeira-secao img{
+  width: 150px;  
+}
+
+.links{
+    margin-top: 15px;
+    text-align: center;
+    margin-bottom: 25px;
+ }
+.primeira-secao a{
+    font-size: 18px;
+    color: #1d1d1d;
+    border-bottom: 2px solid #1d1d1d;
+    text-decoration: none;
+    margin: 0px 10px;
+}
+
+
+/*---------------2ª seção-------------*/
+.segunda-secao{
+    margin-top: 50px;
+    padding-top: 0px;
+}
+
+/*--------------3ª seção-------------*/
+.negrito-azul{
+    font-weight: bold;
+    color:#1c8cd1;
+}
+.terceira-secao h2{
+    color: #1c8cd1;
+    margin-top: 0px;
+    font-weight: normal;
+}
+.imagem{
+    width: 450px;
+}
+
+/*--------------4ª seção-------------*/
+.quarta-secao{
+    background-color: #1d80c1;
+}
+.subtitulo-branco{
+    color: #ffffff;
+    font-size: 28px;
+    line-height: 42px;
+}
+.texto-servicos{
+    color:#ffffff;
+    line-height: 42px;
+    font-size: 22px;
+    text-align: center;
+    width: 700px;
+    font-weight: normal;
+}
+.negrito-amarelo{
+    font-weight: bold;
+    color: #fff81b;
+}
+.primeira-lista{
+    margin: 40px auto;
+    width: 135px;
+    color: #ffffff;
+    line-height: 42px;
+    text-align: left;
+    font-size: 22px;
+}
+
+/*-----------5ª seção----------*/
+.subtitulo-azul{
+    color: #1c8cd1;
+    font-size: 28px;
+    line-height: 42px;
+}
+.Email{
+    color: #1c8cd1;
+    text-decoration: none;
+}
+/* --------6ª seção-----------*/
+.sexta-secao{
+    background-color: #1c8cd1;
+}
+.texto-contato{
+    color: #ffffff;
+    background-color: #1d1d1d;
+    padding: 15px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+.segunda-lista{
+    margin: 40px auto;
+    width: 210;
+    list-style: none;
+}
+.segunda-lista li{
+    margin-top: 15px;
+    text-align: center;
+    font-size: 18px;
+}
+
+.link-lista {   
+    background-color: #ffffff;
+    color: #1c8cd1;
+    padding: 2px 5px;
+    border-radius: 5px
+}
